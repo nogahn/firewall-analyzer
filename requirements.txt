@@ -1,0 +1,9 @@
+pydantic
+pytest
+pytest-asyncio
+fastapi
+uvicorn
+redis
+fakeredis
+fastapi-limiter
+httpx
